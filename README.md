@@ -36,9 +36,19 @@ This project bridges human input with intelligent autonomy, demonstrating practi
 ---
 
 ## Visual Representation
-![Semi-Autonomous Wheelchair]
-*Figure: Wheelchair equipped with LiDAR, IMU, and ultrasonic sensors for autonomous navigation.*
+## Visualizations
 
+### LiDAR Top View
+![LiDAR Top View](images/lidar_top_view.png)
+
+### IMU Data
+![IMU Data](images/imu_data_plot.png)
+
+### Ultrasonic Sensor
+![Ultrasonic Sensor](images/ultrasonic_sensor.png)
+
+### Trajectory Visualization
+![Trajectory Visualization](images/trajectory_visualization.png)
 
 ## Project Status
 This project was completed as part of research work at Widener University. The code is not public due to hardware dependencies.
