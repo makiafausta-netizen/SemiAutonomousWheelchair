@@ -41,8 +41,8 @@ This project bridges human input with intelligent autonomy, demonstrating practi
 ### LiDAR Top View
 ![LiDAR Top View](images/lidar_top_view.png)
 
-### IMU Data
-![IMU Data](images/imu_data_plot.png)
+### 3D Lidar Data
+![IMU Data](3D visualization of LIDAR sensors on ROS(Linux Ubuntu).jpeg)
 
 ### Ultrasonic Sensor
 ![Ultrasonic Sensor](images/ultrasonic_sensor.png)
