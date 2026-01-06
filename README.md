@@ -36,7 +36,6 @@ This project bridges human input with intelligent autonomy, demonstrating practi
 ---
 
 ## Visual Representation
-## Visualizations
 
 ### Ultrasonic Sensor
 ![LiDAR visualization](images/UltrasonicSensor.jpg)
