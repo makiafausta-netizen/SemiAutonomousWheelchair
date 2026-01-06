@@ -39,7 +39,7 @@ This project bridges human input with intelligent autonomy, demonstrating practi
 ## Visualizations
 
 ### LiDAR Top View
-![LiDAR Top View](images/lidar_top_view.png)
+![LiDAR visualization](images/2D Lidar Sensor.jpg)
 
 ### Graphic Lidar Data
 ![IMU Data](Graphic Visualizatio of Lidar sensors on ROS (Linux ubuntu).png)
