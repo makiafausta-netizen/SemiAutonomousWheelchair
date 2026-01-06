@@ -38,17 +38,24 @@ This project bridges human input with intelligent autonomy, demonstrating practi
 ## Visual Representation
 ## Visualizations
 
-### LiDAR Top View
+### Ultrasonic Sensor
+![LiDAR visualization](images/UltrasonicSensor.jpg)
+
+### 2D Lidar Sensor
 ![LiDAR visualization](images/2DLidarSensor.jpg)
 
-### Graphic Lidar Data
-![IMU Data](Graphic Visualizatio of Lidar sensors on ROS (Linux ubuntu).png)
+### 3D Lidar Sensor
+![LiDAR visualization](images/3DLidarsensor.jpg)
 
-### Ultrasonic Sensor
-![Ultrasonic Sensor](images/ultrasonic_sensor.png)
+### 3D Simulation of Lidar Sensor Data
+![LiDAR visualization](images/SimulationofLIDARsensorsonROS(LinuxUbuntu).jpg)
 
-### Trajectory Visualization
-![Trajectory Visualization](images/trajectory_visualization.png)
+### Graphic Representation of Lidar Sensor Data
+![LiDAR visualization](images/GraphicVisualizatioofLidarsdataonROS(Linuxubuntu).jpg)
+
+### Electric Wheelchair (Before mounting 3D Lidar sensors)
+![LiDAR visualization](images/Semi-AutonomousWheelchair.jpg)
+
 
 ## Project Status
 This project was completed as part of research work at Widener University. The code is not public due to hardware dependencies.
